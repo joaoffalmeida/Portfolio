@@ -1,0 +1,7 @@
+﻿  TheScrabble.cpp
+C:\Users\joao9\Desktop\TheScrabble\TheScrabble\TheScrabble\TheScrabble.cpp(191,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joao9\Desktop\TheScrabble\TheScrabble\TheScrabble\TheScrabble.cpp(216,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joao9\Desktop\TheScrabble\TheScrabble\TheScrabble\TheScrabble.cpp(218,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joao9\Desktop\TheScrabble\TheScrabble\TheScrabble\TheScrabble.cpp(866,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\joao9\Desktop\TheScrabble\TheScrabble\TheScrabble\TheScrabble.cpp(258): warning C4715: 'Game::checkHand': not all control paths return a value
+  TheScrabble.vcxproj -> C:\Users\joao9\Desktop\TheScrabble\TheScrabble\Debug\TheScrabble.exe
