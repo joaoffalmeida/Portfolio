@@ -1,0 +1,4 @@
+﻿  MinimumSwaps.cpp
+O:\Programming\C++\MinimumSwaps\MinimumSwaps\MinimumSwaps.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+O:\Programming\C++\MinimumSwaps\MinimumSwaps\MinimumSwaps.cpp(40,21): warning C4018: '<': signed/unsigned mismatch
+  MinimumSwaps.vcxproj -> O:\Programming\C++\MinimumSwaps\Debug\MinimumSwaps.exe

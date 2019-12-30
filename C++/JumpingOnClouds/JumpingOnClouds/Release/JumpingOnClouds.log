@@ -1,0 +1,8 @@
+﻿  JumpingOnClouds.cpp
+O:\Programming\C++\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+O:\Programming\C++\JumpingOnClouds\JumpingOnClouds\JumpingOnClouds.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 75 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  JumpingOnClouds.vcxproj -> O:\Programming\C++\JumpingOnClouds\Release\JumpingOnClouds.exe

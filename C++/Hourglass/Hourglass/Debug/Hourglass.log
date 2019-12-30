@@ -1,0 +1,6 @@
+﻿  Hourglass.cpp
+O:\Programming\C++\Hourglass\Hourglass\Hourglass.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+O:\Programming\C++\Hourglass\Hourglass\Hourglass.cpp(20,27): warning C4018: '<': signed/unsigned mismatch
+O:\Programming\C++\Hourglass\Hourglass\Hourglass.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+O:\Programming\C++\Hourglass\Hourglass\Hourglass.cpp(34,27): warning C4018: '<': signed/unsigned mismatch
+  Hourglass.vcxproj -> O:\Programming\C++\Hourglass\Debug\Hourglass.exe
