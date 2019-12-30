@@ -1,0 +1,3 @@
+﻿  SockMerchant.cpp
+O:\Programming\C++\SockMerchant\SockMerchant\SockMerchant.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+  SockMerchant.vcxproj -> O:\Programming\C++\SockMerchant\Debug\SockMerchant.exe
