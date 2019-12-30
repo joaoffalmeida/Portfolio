@@ -1,0 +1,4 @@
+﻿  CountingValleys.cpp
+O:\Programming\C++\CountingValleys\CountingValleys\CountingValleys.cpp(10,23): warning C4018: '<': signed/unsigned mismatch
+O:\Programming\C++\CountingValleys\CountingValleys\CountingValleys.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+  CountingValleys.vcxproj -> O:\Programming\C++\CountingValleys\Debug\CountingValleys.exe

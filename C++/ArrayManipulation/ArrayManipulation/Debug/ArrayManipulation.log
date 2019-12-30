@@ -1,0 +1,3 @@
+﻿  ArrayManipulation.cpp
+O:\Programming\C++\ArrayManipulation\ArrayManipulation\ArrayManipulation.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+  ArrayManipulation.vcxproj -> O:\Programming\C++\ArrayManipulation\Debug\ArrayManipulation.exe

@@ -1,0 +1,8 @@
+﻿  CountingValleys.cpp
+O:\Programming\C++\CountingValleys\CountingValleys\CountingValleys.cpp(13,27): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  8 of 112 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CountingValleys.vcxproj -> O:\Programming\C++\CountingValleys\Release\CountingValleys.exe

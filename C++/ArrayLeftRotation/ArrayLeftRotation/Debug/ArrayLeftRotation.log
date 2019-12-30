@@ -1,0 +1,3 @@
+﻿  ArrayLeftRotation.cpp
+O:\Programming\C++\ArrayLeftRotation\ArrayLeftRotation\ArrayLeftRotation.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+  ArrayLeftRotation.vcxproj -> O:\Programming\C++\ArrayLeftRotation\Debug\ArrayLeftRotation.exe
