@@ -1,0 +1,4 @@
+﻿  CountTriplets.cpp
+O:\Programming\_C++\CountTriplets\CountTriplets\CountTriplets.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+O:\Programming\_C++\CountTriplets\CountTriplets\CountTriplets.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+  CountTriplets.vcxproj -> O:\Programming\_C++\CountTriplets\Debug\CountTriplets.exe

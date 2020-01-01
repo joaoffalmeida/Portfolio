@@ -1,0 +1,4 @@
+﻿  FrequencyQueries.cpp
+O:\Programming\_C++\FrequencyQueries\FrequencyQueries\FrequencyQueries.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+O:\Programming\_C++\FrequencyQueries\FrequencyQueries\FrequencyQueries.cpp(102,23): warning C4018: '<': signed/unsigned mismatch
+  FrequencyQueries.vcxproj -> O:\Programming\_C++\FrequencyQueries\Debug\FrequencyQueries.exe
